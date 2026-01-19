@@ -1,4 +1,4 @@
-apt update 
+apt update
 apt upgrade
 pkg install python
 pkg install git
