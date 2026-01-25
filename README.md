@@ -8,6 +8,8 @@
 
 . pip install  bs4 
 
+. rm -rf Old-Clone 
+
 . git clone https://github.com/IshQkhan/Old-Clone.git
 
 . cd Old-Clone 
