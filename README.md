@@ -14,4 +14,4 @@
 
 . cd Old-Clone 
 
-. python TR.py
+. python TRC.py
