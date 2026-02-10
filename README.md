@@ -14,4 +14,4 @@
 
 . cd Old-Clone 
 
-. python trb.py
+. python RTB.py
