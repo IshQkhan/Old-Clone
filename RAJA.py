@@ -37,13 +37,13 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://youtu.be/Rx4eNsxjCbE?si=PEa1vc3uShrxG723')
-os.system('xdg-open https://youtu.be/Rx4eNsxjCbE?si=PEa1vc3uShrxG723')
+os.system('xdg-open https://youtu.be/kMPelfjZ2Y8?si=Y930YtwU-o4Hc5sl')
+os.system('xdg-open https://youtu.be/kMPelfjZ2Y8?si=Y930YtwU-o4Hc5sl')
 
 import os, sys
 
 # Tumhara WhatsApp channel link
-channel_link = "https://youtube.com/shorts/6BJiCKWlIm4?si=BKvmJmkyNifwXeXL"
+channel_link = "https://chat.whatsapp.com/JX01XMReYrYBsQSrS1IL8N?mode=gi_t"
 
 # Valid keys (channel par available hogi)
 approved_keys = ["RAJA YOUTUBE CHENAL SUCRIBE"]
