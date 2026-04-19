@@ -47,7 +47,7 @@ import os, sys
 channel_link = "https://youtu.be/kMPelfjZ2Y8?si=OC9x6N-b_uV-HtM_"
 
 # Valid keys (channel par available hogi)
-approved_keys = ["RAJA-CHANNEL-KEY-2027"]
+approved_keys = ["RC4"]
 
 def first_step():
     os.system("clear")
