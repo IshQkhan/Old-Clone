@@ -1,1 +1,2 @@
-import RAJA
+import raja
+print("Import successful!")
