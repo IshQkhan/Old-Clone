@@ -1,2 +1,1 @@
-import raja
-print("Import successful!")
+import RAJA
